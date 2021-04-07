@@ -3,9 +3,13 @@
 ## 동적계획 수련을 위한 문제: 삼각형 위의 최대 경로 찾기
 
 문제에 대한 설명 및 온라인 저지 문제는 알고스팟과 프로젝트 오일러 참조:
+
 알고스팟 TRIANGLEPATH: https://www.algospot.com/judge/problem/read/TRIANGLEPATH 
+
 알고스팟 TRIPATHCNT: https://www.algospot.com/judge/problem/read/TRIPATHCNT 
+
 프로젝트 오일러 18번: https://projecteuler.net/problem=18 
+
 프로젝트 오일러 67번: https://projecteuler.net/problem=67 
 
 먼저, 위의 문제들을 충분한 시간을 두고 스스로 생각해서 한 번 풀어보세요.
