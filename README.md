@@ -27,11 +27,13 @@
 위 해법에 대한 자세한 해설은 유튜브 채널 주니온TV에서 시청할 수 있습니다.
 https://www.youtube.com/channel/UCOcPzXDWSrnaKXse9XOPiog 
 
+위 유튜브 동영상에서는 C++로만 해설하였으나, 동일한 방법으로 구현된 Python 코드도 포함되어 있습니다. 
+
 ## 수련을 마치고 나서 더 해볼 수 있는 것들
 
 1. 최적해를 순서대로 나열했을 때, k번째 최적해만 출력하라고 하면?
 2. 최대 경로가 아니라, 최단 경로라면 백트래킹으로 구할 수 있지 않을까?
 3. 백트래킹을 적용할 수 있다면, 분기한정을 적용하면 더 효율적이지 않을까?
 
-백트래킹: Backtracking = Depth-First-Search with Pruning (using promising function)
-분기한정: Branch-and-Bound = Best-Breadth-First-Search with Pruning
+* 백트래킹: Backtracking = Depth-First-Search with Pruning (using promising function)
+* 분기한정: Branch-and-Bound = Best-Breadth-First-Search with Pruning
