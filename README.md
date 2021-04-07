@@ -3,15 +3,14 @@
 ## 동적계획 수련을 위한 문제: 삼각형 위의 최대 경로 찾기
 
 문제에 대한 설명 및 온라인 저지 문제는 알고스팟과 프로젝트 오일러 참조:
-https://www.algospot.com/judge/problem/read/TRIANGLEPATH
-https://www.algospot.com/judge/problem/read/TRIPATHCNT
-https://projecteuler.net/problem=18
-https://projecteuler.net/problem=67
+알고스팟 TRIANGLEPATH: https://www.algospot.com/judge/problem/read/TRIANGLEPATH 
+알고스팟 TRIPATHCNT: https://www.algospot.com/judge/problem/read/TRIPATHCNT 
+프로젝트 오일러 18번: https://projecteuler.net/problem=18 
+프로젝트 오일러 67번: https://projecteuler.net/problem=67 
 
 먼저, 위의 문제들을 충분한 시간을 두고 스스로 생각해서 한 번 풀어보세요.
 처음 보는 문제라면 3~4일 정도 풀어 보는 것이 적당하고,
 이미 풀어본 문제라 하더라도 하루 정도는 스스로 다양한 방법을 시도해 보세요.
-
 그렇게 스스로 충분히 생각해 본 이후에 본 수련법을 따라가면 큰 도움이 됩니다.
 
 ## 단계별로 문제 풀어보기
@@ -23,6 +22,9 @@ https://projecteuler.net/problem=67
 5. 최적값을 가진 최적해의 개수를 얻도록 추가로 확장하기
 6. 최적해의 개수를 얻는 방법도 동적계획법으로 풀기
 7. 최적값, 최적해의 개수, 최적해를 모두 한꺼번에 얻기
+
+위 해법에 대한 자세한 해설은 유튜브 채널 주니온TV에서 시청할 수 있습니다.
+https://www.youtube.com/channel/UCOcPzXDWSrnaKXse9XOPiog 
 
 ## 수련을 마치고 나서 더 해볼 수 있는 것들
 
